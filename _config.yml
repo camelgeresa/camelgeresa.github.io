@@ -1,0 +1,7 @@
+title: "Camilla codes"
+description: "Whatever you want it to be"
+url: "https://camelgeresa.github.io/"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
